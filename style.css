@@ -48,7 +48,7 @@ html {
   
   div #mission {
     background: black;
-    
+    opacity: .9;
   }
   
   
@@ -88,6 +88,7 @@ html {
     background: black;
     width: 300px;
     margin: 15px 20px;
+    opacity: .9;
   }
   
   footer p{
